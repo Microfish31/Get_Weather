@@ -11,6 +11,7 @@
 資料來源 : 中央氣象局開放資料平台 (https://opendata.cwb.gov.tw/devManual/insrtuction)  
 將資料自動下載至電腦(json格式)，透過python 解析，說明天氣並且畫圖呈現出來。  
 
+## 展示
   ![image](https://github.com/Microfish31/Get_Weather/blob/main/dsfghjkl.PNG)
   
   ![image](https://github.com/Microfish31/Get_Weather/blob/main/ydtfguhio.PNG)
